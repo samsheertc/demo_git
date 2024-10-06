@@ -1,3 +1,4 @@
+#added this new line
 #1. Write Code on a white board or paper
 
 #2. Know Control Flow
