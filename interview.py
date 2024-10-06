@@ -1,8 +1,6 @@
-#added this new line
 #1. Write Code on a white board or paper
 
 #2. Know Control Flow
-
 for i in range(1, 11):
 print(i)
 
@@ -24,13 +22,19 @@ else:
 	
 
 #3. Past Project
-   #Some kind of utilty project
+#Some kind of utilty project
    
 #4. Common interview problem
-  
-  #Prime Numbers
-
-
+#Prime Numbers
+for i in range(100):
+    if i == 2 :
+        print(i)
+    for j in range(2, i):
+        if i % j == 0:
+            break
+        if j == i - 1 :
+            print(i)
+		
 #fizzbuzz
 for num in range(1,100):
     if num % 5 == 0 and num % 3 == 0:
