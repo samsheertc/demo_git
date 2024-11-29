@@ -1,3 +1,1 @@
-remote1
-remote2
-local1 via child
+abc
