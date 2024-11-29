@@ -1,3 +1,6 @@
 R1
 R2
 R3
+Local D1
+Local D2
+Local D3
