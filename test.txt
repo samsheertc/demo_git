@@ -1,6 +1,1 @@
-entry1
-<<<<<<< HEAD
-entry3 --local
-=======
-entry2 --remote
->>>>>>> fa378117989b11584747c2052792d0cca25aab32
+remote1
