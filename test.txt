@@ -2,3 +2,4 @@ remote1
 local1
 remote2
 remote3
+local2
